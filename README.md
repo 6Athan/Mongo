@@ -1,4 +1,4 @@
-index.js<<<<<<<< realizar la conexion a mongo ATLAS
+index.js<<<<<<<< realizar la conexion a mongo ATLAS (se encuentra situada en la carpeta SRC)
 catalogo.js para crear la tabla catalogo con las inserciones y sus respectivas validaciones de ingreso de datos
 en la BD
 productos.js para crear la tabla productos con las inserciones y sus respectivas validaciones de ingreso de datos
