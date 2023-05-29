@@ -17,9 +17,7 @@ seleccion en Git Bash Here dentro de la carpeta del proyecto
 
 git init <<< para iniciar proyecto desde la carpeta
 
-git clone  https://github.com/6Athan/AprendiendoCon_Luis.git para 
 
-crear un repositorio de Git Hub
 
 
 git add .
